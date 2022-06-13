@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="common_unit_time_second">秒</string>
+    <string name="common_unit_time_minute">分</string>
+    <string name="setting_storage_default">默认存储卡</string>
+    <string name="setting_storage_sdcard">外置存储卡</string>
+    <string name="setting_storage_no_permission">(没有权限)</string>
+
+    <string name="timer_ago_minutes">%s分钟前</string>
+    <string name="timer_ago_hours">%s小时前</string>
+    <string name="timer_ago_days">%s天前</string>
+    <string name="timer_ago_months">%s月前</string>
+    <string name="timer_ago_years">%s年前</string>
+
+    <string name="timer_ago_one_minute">1分钟前</string>
+    <string name="timer_ago_one_hour">1小时前</string>
+    <string name="timer_ago_one_day">1天前</string>
+    <string name="timer_ago_one_month">1月前</string>
+    <string name="timer_ago_one_year">1年前</string>
+
+    <string name="sz_media_view_times_unit_k" translatable="false">K</string>
+    <string name="sz_media_view_times_unit_m" translatable="false">M</string>
+</resources>
