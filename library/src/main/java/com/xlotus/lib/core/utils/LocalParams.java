@@ -68,8 +68,8 @@ public class LocalParams {
     public String deviceId;          // device's identifier
     public String userId;          // user's identifier
     public String appId;          // app's identifier, for android, is package name
-    public int appVer;            // user's AnyShare application version code
-    public String appVerName;     // user's AnyShare application version name
+    public int appVer;            // user's application version code
+    public String appVerName;     // user's application version name
     public int osVer;             // for andriod is api level
     public String osType;         // "android" or "windows"
     public int screenWidth;       // screen width, in pixels
